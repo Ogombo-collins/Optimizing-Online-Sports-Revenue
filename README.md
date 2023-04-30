@@ -1,6 +1,10 @@
 # Optimizing Online Sports Revenue
 The core objective of the project involves analysing product data for an online sports retail enterprise to optimize revenue.
 
+## Jupiter Notebook
+The data analysis is carried out in Jupiter Notebook.
+The link to the analysis: [notebook.ipynb]
+
 ## Background of the Project
 Sports clothing is a booming enterprise. Many athleisure brands such as Lululemon, Adidas and Nike are competing for a pie of the billion dollar apparel market. Sports clothing and athleisure attire is a large industry, worth approximately $193 billion in 2021 with a strong growth forecast over the next decade.
 
